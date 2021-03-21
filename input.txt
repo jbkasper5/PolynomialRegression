@@ -1,0 +1,12 @@
+Structure: 1, 10, 10, 4
+Activation function Structure: sigmoid, sigmoid, linear
+Learning Rate: 0.0003
+Epochs: 100000000
+Data Points (x, y):
+	(0, 1)
+	(1, 1.5)
+	(4, 5.6)
+	(2, 4.3)
+	(-1, 2)
+	(-3, 5.6)
+	(-2, 4.5)

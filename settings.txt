@@ -1,0 +1,26 @@
+NOTE: Settings are subject to slight modifications due to random generation
+
+1st Degree
+	{1, 10, 10, 2}
+	{Relu, Relu, Linear}
+	LR: 0.01
+	Epochs: 75,000
+	Points: 2
+2nd Degree
+	{1, 10, 10, 3}
+	{Relu, Relu, Linear}
+	LR: 0.0025
+	Epochs: 100,000
+	Points: 5
+3rd Degree
+	{1, 10, 10, 4}
+	{Relu, Relu, Linear}
+	LR: 0.00009
+	Epochs: 250,000
+	Points: 7
+4th Degree
+	{1, 10, 10, 5}
+	{Relu, Relu, Linear}
+	LR: 0.000003
+	Epochs: 2,000,000
+	Points: 9
